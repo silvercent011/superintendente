@@ -1,0 +1,8 @@
+.env
+credentials.json
+firebase.json
+token.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
